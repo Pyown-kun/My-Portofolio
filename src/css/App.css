@@ -1,0 +1,26 @@
+.h-borderHeader {
+  height: 600px;
+}
+
+.mr-AboutMe {
+  margin-right: 70%;
+}
+
+.cSharp {
+  width: 75%;
+}
+.js {
+  width: 60%;
+}
+.php {
+  width: 65%;
+}
+.python {
+  width: 70%;
+}
+
+.progress-ring__circle {
+  transition: stroke-dashoffset 0.35s;
+  transform: rotate(-90deg);
+  transform-origin: 50% 50%;
+}
